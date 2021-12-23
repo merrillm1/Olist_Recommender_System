@@ -6,8 +6,6 @@ Using LightFMs recommendation algorithm we were able to achieve a 97% AUROC* for
 
 This was achieved using a hybrid recommendation system that uses collaborative and content based approaches to suggest items, coupled with clustering techniques to introduce customer features into the model. 
 
-Significant sales increases could result from implementation of this model.
-
 ## Project Proposal
 
 Olist is an ecommerce website centered in Brazil that empowers small merchants to sell online. Founded in 2016, Olist sought to be the "market of marketplaces" that brings together the fragmented customer base for sellers and merchants. Unlike in the US and China, who have single players dominating the online marketplace, Brazils complex collection of merchants opened an opportunity for Olist to provide a similar service to the region. They provide support to merchants by managing all aspects of product retail from product catelog to payments. For users in Brazil they are able to come to one place to access the diverse marketplaces of the region. However, an immediate challenge in creating such a market is connecting users to the products they are looking for and helping sellers find the right users for their products. The solution to this problem is to implement a recommendation system, which this project will seek to create  [1](https://valorcapitalgroup.com/case-studies/olist-redesigned-the-marketplace-business-model-to-fit-the-realities-of-ecommerce-in-brazil/).
